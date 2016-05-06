@@ -1,0 +1,15 @@
+@media only screen and (min-width: 769px){
+  .ABC{
+    color: aqua
+  }
+}
+@media (min-width: @screen-md-min){
+  .ABC{
+    color: #733bb4; 
+  }
+}
+@media (min-width: @screen-lg-min){
+  .ABC{
+   color: #733bb4; 
+  }
+}
