@@ -21,7 +21,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="#" target="_blank">SAMBA</a>
+        <a class="navbar-brand" href="#javascript:;">Angular JS</a>
       </div>
       <div id="nav_panel" class="collapse navbar-collapse">
         <ul class="nav navbar-nav navbar-right padding-right-10">
@@ -55,23 +55,29 @@
 	      		<th>URL Videos</th>
 	      	</thead>
 	      	<tbody>
+	      	<tr>
+	      			<td>0</td>
+	      			<td>Angular API</td>
+	      			<td><a href="Tutorial_0">Curso</a></td>
+	      			<td><a href="javascript:;">Referencia</a></td>
+	      		</tr>
 	      		<tr>
 	      			<td>1</td>
 	      			<td>CodigoFacilito</td>
-	      			<td><a href="#">LINK</a></td>
-	      			<td><a href="https://www.youtube.com/playlist?list=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2">LINK</a></td>
+	      			<td><a href="javascript:;">Curso</a></td>
+	      			<td><a href="https://www.youtube.com/playlist?list=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2">Referencia</a></td>
 	      		</tr>
 	      		<tr>
 	      			<td>2</td>
 	      			<td>Udemy 1</td>
-	      			<td><a href="Tutorial_2">LINK</a></td>
-	      			<td><a href="https://www.udemy.com/angularjs-en-espanol/learn/v4/content">LINK</a></td>
+	      			<td><a href="Tutorial_2">Curso</a></td>
+	      			<td><a href="https://www.udemy.com/angularjs-en-espanol/learn/v4/content">Referencia</a></td>
 	      		</tr>
 	      		<tr>
 	      			<td>3</td>
 	      			<td>Video2Brain 1</td>
-	      			<td><a href="#">LINK</a></td>
-	      			<td><a href="">LINK</a></td>
+	      			<td><a href="javascript:;">Curso</a></td>
+	      			<td><a href="javascript:;">Referencia</a></td>
 	      		</tr>
 	      	</tbody>
 				</table>
